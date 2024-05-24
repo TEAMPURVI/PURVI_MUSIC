@@ -6,7 +6,7 @@ from PURVIMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "𝐑𝐀𝐔𝐒𝐇𝐀𝐍 𝐁𝐀𝐁𝐘"
+MUST_JOIN = "sᴜᴘᴘᴏʀᴛ"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
