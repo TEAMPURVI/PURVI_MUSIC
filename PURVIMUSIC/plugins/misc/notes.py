@@ -1,4 +1,4 @@
-from DAXXMUSIC import app
+from PURVIMUSIC import app
 from config import BOT_USERNAME
 from pyrogram import filters
 from PURVIMUSIC.utils.purvi_ban import admin_filter
