@@ -30,17 +30,11 @@ class PURVI(Client):
                 chat_id=config.LOGGER_ID,
                 text=f"<u><b>» {self.mention} ʙᴏᴛ sᴛᴀʀᴛᴇᴅ :</b><u>\n\nɪᴅ : <code>{self.id}</code>\nɴᴀᴍᴇ : {self.name}\nᴜsᴇʀɴᴀᴍᴇ : @{self.username}",
             )
-        except (errors.ChannelInvalid, errors.PeerIdInvalid):
+        except:
             LOGGER(__name__).error(
                 "Bot has failed to access the log group/channel. Make sure that you have added your bot to your log group/channel."
             )
             exit()
-        except Exception as ex:
-            LOGGER(__name__).error(
-                f"Bot has failed to access the log group/channel.\n  Reason : {type(ex).__name__}."
-            )
-            exit()
-
         a = await self.get_chat_member(config.LOGGER_ID, self.id)
         if a.status != ChatMemberStatus.ADMINISTRATOR:
             LOGGER(__name__).error(
