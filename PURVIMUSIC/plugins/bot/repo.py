@@ -44,7 +44,7 @@ async def start(_, msg):
               InlineKeyboardButton("︎𝗣𝗨𝗥𝗩𝗜 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/TEAMPURVI/PURVI_MUSIC"),
               ],
               [
-              InlineKeyboardButton("𝗞𝗜𝗡𝗚 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/TEAMPURVI/ALPHA_X_MUSIC"),
+              InlineKeyboardButton("𝗝𝗨𝗡𝗜𝗢𝗥 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/TEAMPURVI/ALPHA_MUSIC"),
 InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚 𝗕𝗢𝗧 ", url=f"https://github.com/TEAMPURVI/PURVI_STRING"),
 ],
 [
