@@ -68,7 +68,7 @@ InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/T
 @capture_err
 async def repo(_, message):
     async with httpx.AsyncClient() as client:
-        response = await client.get("https://api.github.com/repos/purvimusic/PURVIMUSIC/contributors")
+        response = await client.get("https://api.github.com/repos/TEAMPURVI/PURVI_MUSIC/contributors")
     
     if response.status_code == 200:
         users = response.json()
@@ -78,7 +78,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/purvimusic/PURVIMUSIC) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/PURVI_UPDATES)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/TEAMPURVI/PURVI_MUSIC) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/PURVI_UPDATES)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
