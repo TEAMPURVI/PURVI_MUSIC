@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","your_alpha_baby")
+OWNER_USERNAME = getenv("OWNER_USERNAME","maa_ka_magarmachha")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME")
 # --------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1001919135283))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002212248470))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6753014811))
+OWNER_ID = int(getenv("OWNER_ID", 5623463726))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Purvi_UPdates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/purvi_support")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/activenowo")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/activenowo")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,13 +141,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/eb31c20889c5fca9e153f.jpg, https://telegra.ph/file/62a4a5c93f78df95a7d61.jpg, https://telegra.ph/file/af1b9fb2c83194a37c44d.jpg"
+    "START_IMG_URL", "https://graph.org/file/54a604d2e248d5709ddaa.jpg, https://graph.org/file/54a604d2e248d5709ddaa.jpg, https://telegra.ph/file/af1b9fb2c83194a37c44d.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/e778c93e89fdb388b214b.mp4"
+    "PING_IMG_URL", "https://graph.org/file/54a604d2e248d5709ddaa.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/e778c93e89fdb388b214b.mp4"
-STATS_IMG_URL = "https://telegra.ph/file/e778c93e89fdb388b214b.mp4"
+PLAYLIST_IMG_URL = "https://graph.org/file/54a604d2e248d5709ddaa.jpg"
+STATS_IMG_URL = "https://graph.org/file/54a604d2e248d5709ddaa.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/bbae2c50b58056ecc4df7.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
