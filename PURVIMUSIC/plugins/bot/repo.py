@@ -33,7 +33,7 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/purvi_updates"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ur_alpha_baby"),
+          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ll_ALPHA_BABY_lll"),
           ],
                [
                 InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗢𝗧", url=f"https://github.com/TEAMPURVI/ALPHA_BANALL"),
