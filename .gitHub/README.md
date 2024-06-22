@@ -4,14 +4,14 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=PURVI_MUSIC&theme=flag-india)
 
-[![GIF](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/DAXXTEAM.gif)](https://github.com/TEAMPURVI)
+[![GIF](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
    [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
 
 
 
 
 
-GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/DAXXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/PURVIMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
   <img src="https://telegra.ph/file/1aab3e5edf0611a7ef4cb.jpg">
@@ -30,7 +30,7 @@ d
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="TEAMPURVI" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/PURVI_MUSIC)](https://github.com/DAXXTEAM/DAXXMUSIC/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/PURVI_MUSIC)](https://github.com/TEAMPURVI/PURVIMUSIC/graphs/contributors)
 
 ### Contact :
 <a href="https://t.me/purvi_updates"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
