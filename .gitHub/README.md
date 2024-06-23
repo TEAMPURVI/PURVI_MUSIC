@@ -11,7 +11,7 @@
    [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
 
 
-
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=🚩+🧡 जय+बजरंग+बली+🧡+🚩"></b></h1>
 
 
 GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/PURVIMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
