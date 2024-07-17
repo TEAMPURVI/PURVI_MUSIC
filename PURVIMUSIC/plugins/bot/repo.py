@@ -44,7 +44,7 @@ async def start(_, msg):
               InlineKeyboardButton("︎𝗣𝗨𝗥𝗩𝗜 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/TEAMPURVI/PURVI_MUSIC"),
               ],
               [
-              InlineKeyboardButton("𝗝𝗨𝗡𝗜𝗢𝗥 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/TEAMPURVI/ALPHA_MUSIC"),
+              InlineKeyboardButton("𝗔𝗟𝗣𝗛𝗔 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/TEAMPURVI/ALPHA_MUSIC"),
 InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚 𝗕𝗢𝗧 ", url=f"https://github.com/TEAMPURVI/PURVI_STRING"),
 ],
 [
@@ -55,7 +55,7 @@ InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/T
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://telegra.ph/file/1aab3e5edf0611a7ef4cb.jpg",
+        photo="https://telegra.ph/file/cc1197829e17ab616528c.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
