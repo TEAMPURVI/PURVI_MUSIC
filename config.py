@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Purvi_UPdates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/purvi_support")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_SUPPORT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -146,10 +146,10 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/e778c93e89fdb388b214b.mp4"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/e778c93e89fdb388b214b.mp4"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/e778c93e89fdb388b214b.mp4"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/cc1197829e17ab616528c.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/cc1197829e17ab616528c.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
