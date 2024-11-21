@@ -55,3 +55,4 @@ img2pdf
 cloudscraper
 pycryptodome
 opencv-python
+git+https://github.com/KurimuzonAkuma/pyrogram@dev
